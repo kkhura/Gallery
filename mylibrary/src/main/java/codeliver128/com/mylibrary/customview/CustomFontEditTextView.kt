@@ -1,4 +1,4 @@
-package kkhura.com.quotes.app.customview
+package codeliver128.com.mylibrary.customview
 
 import android.annotation.TargetApi
 import android.content.Context
@@ -19,10 +19,9 @@ import android.widget.LinearLayout
 import android.widget.TextView
 import androidx.appcompat.widget.AppCompatEditText
 import codeliver128.com.mylibrary.R
-import codeliver128.com.mylibrary.customview.DrawableClickListener
+import codeliver128.com.mylibrary.utility.Utils
 import com.google.android.material.textfield.TextInputEditText
 import com.google.android.material.textfield.TextInputLayout
-import kkhura.com.quotes.app.utility.Utils
 
 class CustomFontEditTextView : TextInputLayout {
     private var editText: TextInputEditText? = null

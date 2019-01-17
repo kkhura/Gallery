@@ -1,10 +1,10 @@
-package kkhura.com.quotes.app.customview
+package codeliver128.com.mylibrary
 
 import android.content.Context
 import android.graphics.Typeface
-import androidx.appcompat.widget.AppCompatTextView
 import android.util.AttributeSet
-import codeliver128.com.mylibrary.R
+import androidx.appcompat.widget.AppCompatTextView
+import codeliver128.com.mylibrary.customview.FontCache
 
 class CustomFontTextView : AppCompatTextView{
 

@@ -1,4 +1,4 @@
-package kkhura.com.quotes.app.customview
+package codeliver128.com.mylibrary.customview
 
 import android.content.Context
 import android.graphics.Typeface

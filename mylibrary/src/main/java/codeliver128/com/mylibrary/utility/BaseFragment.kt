@@ -1,4 +1,4 @@
-package kkhura.com.quotes.app.utility
+package codeliver128.com.mylibrary.utility
 
 import android.content.pm.PackageManager
 import android.os.Build

@@ -1,4 +1,4 @@
-package kkhura.com.quotes.app.utility
+package codeliver128.com.mylibrary.utility
 
 import android.content.Context
 import android.graphics.Bitmap
