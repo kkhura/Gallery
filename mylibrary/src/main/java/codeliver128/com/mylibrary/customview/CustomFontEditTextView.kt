@@ -5,10 +5,6 @@ import android.content.Context
 import android.graphics.Typeface
 import android.graphics.drawable.Drawable
 import android.os.Build
-import androidx.annotation.RequiresApi
-import com.google.android.material.textfield.TextInputEditText
-import com.google.android.material.textfield.TextInputLayout
-import androidx.appcompat.widget.AppCompatEditText
 import android.text.*
 import android.text.method.KeyListener
 import android.text.method.PasswordTransformationMethod
@@ -21,10 +17,13 @@ import android.view.View.OnFocusChangeListener
 import android.view.View.OnTouchListener
 import android.widget.LinearLayout
 import android.widget.TextView
-import kkhura.com.quotes.app.R
+import androidx.appcompat.widget.AppCompatEditText
+import codeliver128.com.mylibrary.R
+import codeliver128.com.mylibrary.customview.DrawableClickListener
+import com.google.android.material.textfield.TextInputEditText
+import com.google.android.material.textfield.TextInputLayout
 import kkhura.com.quotes.app.utility.Utils
 
-@RequiresApi(api = Build.VERSION_CODES.GINGERBREAD)
 class CustomFontEditTextView : TextInputLayout {
     private var editText: TextInputEditText? = null
 

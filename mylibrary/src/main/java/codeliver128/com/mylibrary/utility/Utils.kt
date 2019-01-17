@@ -8,7 +8,6 @@ import android.util.TypedValue
 import android.view.View
 import java.util.*
 
-
 object Utils {
 
     fun convertSpToPixel(dp: Float, context: Context): Float {

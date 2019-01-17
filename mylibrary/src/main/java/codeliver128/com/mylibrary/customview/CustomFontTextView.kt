@@ -4,7 +4,7 @@ import android.content.Context
 import android.graphics.Typeface
 import androidx.appcompat.widget.AppCompatTextView
 import android.util.AttributeSet
-import kkhura.com.quotes.app.R
+import codeliver128.com.mylibrary.R
 
 class CustomFontTextView : AppCompatTextView{
 

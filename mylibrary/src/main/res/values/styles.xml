@@ -1,0 +1,39 @@
+<resources>
+
+  <style name="AppTheme.NoActionBar">
+    <item name="windowActionBar">false</item>
+    <item name="windowNoTitle">true</item>
+  </style>
+
+  <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+    <item name="windowActionBar">true</item>
+  </style>
+
+  <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+  <declare-styleable name="customFontTextView">
+    <attr name="fontName" format="string" />
+    <attr name="backgroundResource" format="string"/>
+    <attr name="inputType" format="string"/>
+    <attr name="maxLength" format="integer"/>
+    <attr name="singleLine" format="boolean"/>
+    <attr name="drawableEnd" format="reference"/>
+    <attr name="lines" format="integer"/>
+    <attr name="gravity" format="integer"/>
+    <attr name="hint_theme" format="integer"/>
+    <attr name="hint_enabled" format="boolean"/>
+    <attr name="is_password_view" format="boolean"/>
+
+  </declare-styleable>
+
+  <style name="TextInputStyle" parent="TextAppearance.AppCompat">
+    <!-- Hint color and label color in FALSE state -->
+    <!--<item name="android:textColorHint">@color/dusky_blue_50</item>
+    <item name="android:textColor">@color/theme_edit_text_text_color</item>
+    <item name="android:textSize">12sp</item>
+    &lt;!&ndash; Label color in TRUE state and bar color FALSE and TRUE State &ndash;&gt;
+    <item name="colorAccent">@color/dusky_blue_50</item>
+    <item name="colorControlNormal">@color/dusky_blue_70</item>
+    <item name="colorControlActivated">@color/theme_edit_text_hint_color_focused</item>-->
+  </style>
+</resources>

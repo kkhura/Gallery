@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="dusky_blue">#445a8d</color>
+    <color name="dusky_blue_70">#B3445a8d</color>
+    <color name="dusky_blue_69">#B0445a8d</color>
+    <!--1-->
+    <color name="dusky_blue_30">#4D445a8d</color>
+    <color name="dusky_blue_50">#80445a8d</color>
+    <color name="link_blue_color">#4a90e2</color>
+
+    <color name="clickable_blue">#0078bf</color>
+    <color name="clickable_blue_30">#4D0078bf</color>
+    <!--<color name="clickable_blue">@color/ui_theme_color</color>-->
+
+
+    <!--1-->
+    <!-- <color name="navigation_drawer_selected_color">@color/dusky_blue</color>-->
+    <!--<color name="navigation_drawer_unselected_color">@color/dusky_blue_70</color>-->
+    <!--<color name="opacity20_dusky_blue">@color/blue_grey</color>-->
+    <!--<color name="opacity30_dusky_blue">#4e6696</color>-->
+    <!--<color name="dusky_blue_54">#8A4e6696</color>-->
+
+
+    <color name="homesample_header_bg">#f9fafc</color>
+
+    <!-- <color name="navigation_drawer_selected_color">@color/dusky_blue</color>-->
+    <!--<color name="navigation_drawer_unselected_color">@color/dusky_blue_70</color>-->
+    <!--<color name="opacity20_dusky_blue">@color/blue_grey</color>-->
+    <!--<color name="opacity30_dusky_blue">#4D4e6696</color>-->
+    <!--<color name="dusky_blue_54">#8A4e6696</color>-->
+
+    <!--     <color name="opacity_50_dusky_blue">@color/dusky_blue_50</color>20-->
+    <!--   <color name="opacity69_dusky_blue">@color/dusky_blue_70</color>&lt;!&ndash;15&ndash;&gt;-->
+    <!--<color name="opacity_69_dusky_blue">@color/dusky_blue_70</color>&lt;!&ndash;2&ndash;&gt;-->
+    <!--<color name="dusky_blue_two_50">@color/dusky_blue_50</color>-->
+    <!--    <color name="black_grey">@color/dusky_blue_70</color>-->
+
+    <color name="dusky_blue_2_opacity_70">@color/dusky_blue</color>
+    <color name="theme_edit_text_text_color">@color/dusky_blue</color><!--10-->
+    <color name="dusky_blue_2">@color/dusky_blue</color>
+    <color name="dusky_blue_two">@color/dusky_blue</color><!--10-->
+    <color name="theme_edit_text_hint_color_normal">@color/dusky_blue</color><!--1-->
+    <color name="number_picker_scroll_text">@color/dusky_blue</color><!--1-->
+    <!--1 dusky blue-->
+    <!--1 unused-->
+    <!--1 unused-->
+    <color name="list_row_selected">@color/dusky_blue</color><!--1 pin key-->
+
+    <color name="popup_medication_search">@color/orange</color><!--2-->
+    <color name="orange">#f5a623</color><!--3-->
+    <color name="orange_2">#f5a743</color>
+    <color name="red">#ed5565</color><!--repeat to be removed-->
+    <color name="red_radical">#ed4958</color>
+    <color name="theme_edit_text_error_color">@color/red</color><!--3, repeat-->
+    <color name="red_500">@color/red</color>
+
+    <color name="transparent">#00000000</color><!--keep this-->
+    <color name="white">#ffffff</color><!--repeat-->
+    <color name="white_40">#64ffffff</color>
+    <color name="white_50">#80ffffff</color>
+    <color name="white_30">#4Dffffff</color>
+    <color name="white_20">#33ffffff</color>
+    <color name="white_d4">#d4ffffff</color>
+
+    <!--3, repeat-->
+    <!--1-->
+    <color name="theme_btn_text_color">@color/white</color><!--repeat, keep this-->
+    <color name="btn_txt_color">@color/white</color><!--repeat-->
+
+
+    <color name="grey_blue">#7793a0</color>
+    <!--8, icon, secondary  text-->
+    <color name="grey_blue_70">#B37793a0</color>
+    <color name="grey_blue_50">#807793a0</color>
+
+    <color name="line_color">#1f979797</color>
+    <color name="card_bg">#f8f8ff</color><!--18, keep this-->
+    <color name="blue_grey">#9aa9b4</color><!--divider-->
+    <color name="blue_grey_opacity_20">#339aa9b4</color>
+    <color name="blue_grey_opacity_5">#0D9aa9b4</color>
+    <color name="blue_grey_opacity_10">#1A9aa9b4</color>
+    <color name="blue_grey_opacity_30">#4D9aa9b4</color>
+    <color name="light_gray">#e1e8ed</color>
+    <color name="blue_grey_20">#329aa9b4</color><!--divider-->
+
+    <color name="partial_blue_opacity_80">#CCe1e8ed</color>
+
+    <color name="pale_grey_two">@color/card_bg</color>
+    <color name="pale_grey">@color/card_bg</color>
+    <!--1 pale gray-->
+    <color name="highlight_crop_color">@color/card_bg</color>
+    <!--1 pale gray-->
+    <!--3 pale gray-->
+    <color name="cell_grey">@color/card_bg</color>
+    <!--4 blue gray-->
+    <color name="background_grey">@color/card_bg</color>
+    <!--keep this pale gray-->
+    <color name="color_error_grey">@color/card_bg</color>
+    <!--1 pale gray-->
+    <color name="barLightColor">@color/card_bg</color>
+    <!--8 pale gray-->
+    <!--9 pale gray-->
+
+    <color name="dark_gray">#6b8896</color>
+
+    <color name="bluey_grey">@color/grey_blue</color>
+    <!--4, multiple times use-->
+    <color name="opacity50_bluey_grey">@color/grey_blue_50</color>
+    <color name="bg_grey">#f7f7f7</color>
+    <!--3-->
+    <!--<color name="gender_round_bg">#999aa9b4</color>-->
+
+
+    <color name="listViewBg">@color/light_gray</color>
+    <!--2-->
+    <!--2-->
+    <!--1-->
+    <color name="section_header">@color/light_gray</color>
+    <!--3-->
+    <color name="qb_bg_color">@color/light_gray</color>
+    <!--5, repeat-->
+    <!--1 unused-->
+
+    <color name="gray">#cccccc</color>
+    <color name="gray_lite">#e0e5ee</color>
+    <!--1 unused-->
+    <color name="qb_text_color">@color/gray</color>
+    <!--15,repeat-->
+    <color name="boder">@color/gray</color>
+    <!--2-->
+    <color name="btn_green_bg_press">@color/gray</color>
+    <!--2-->
+    <!--6-->
+    <color name="grey_apptour">@color/gray</color>
+    <!--1-->
+    <!--2-->
+
+
+    <color name="dark_grey">#666666</color>
+    <!--keep this-->
+    <color name="color_888888">@color/dark_grey</color>
+    <!--1-->
+    <color name="grey_60">@color/dark_grey</color>
+    <!--keep this-->
+    <color name="auto_reminder_color">@color/dark_grey</color>
+    <!--10-->
+    <color name="text_light_gray">@color/dark_grey</color>
+    <!--10-->
+    <color name="no_records_txt">@color/dark_grey</color>
+    <!--5-->
+    <color name="sub_header">@color/dark_grey</color>
+    <!--4-->
+    <!--1-->
+    <color name="section_header_text">@color/dark_grey</color>
+    <!--1-->
+
+
+    <color name="medicine_name">#333333</color>
+    <!--30-->
+    <color name="bg_play_color">@color/medicine_name</color>
+    <!--5-->
+    <color name="Video_strip_bar">@color/medicine_name</color>
+    <!--1-->
+    <!--1-->
+    <color name="black_opacity_60">#99000000</color>
+    <!--1-->
+    <color name="black">@color/medicine_name</color>
+
+    <color name="screen_popup_bg">#b3202425</color>
+    <!--keep this-->
+
+    <!--<color name="chat_btn_bg_normal">#E3EAF0</color>-->
+    <!--<color name="chat_btn_b_pressed">#2780CE</color>-->
+    <!-- <color name="textShadow">#FFF</color>-->
+    <!--<color name="highlight">#FF38c0f4</color>-->
+    <!--<color name="yellow">#FFFF00</color>-->
+    <!-- <color name="textFieldColor">#000</color>-->
+    <!--<color name="menu_btn_selected">#483d8b</color>-->
+    <!--<color name="message_bar_color">#bb262626</color>-->
+    <!--<color name="msg_txt">#7c7b7b</color>-->
+    <!--<color name="msg_date">#333</color>-->
+    <!-- <color name="pale_teal">#80cbc4</color>-->
+    <!--<color name="dark">#263238</color>-->
+    <!--<color name="nagivation_list_selector_color">#61e1e8ed</color>-->
+    <!--<color name="pale_grey_two">#f3f6f9</color>-->
+    <!-- <color name="blue_grey_30">#4D9aa9b4</color>-->
+    <!--<color name="qb_start_txtcolor">#202020</color>-->
+    <!--<color name="proress_bg_color">#848484</color>-->
+    <!--<color name="thank_you_color">#3E9F54</color>-->
+    <!--<color name="edit_bg_color">#E5E5E5</color>-->
+    <!--<color name="header_bg">#EEEEEE</color>-->
+    <!-- <color name="section_header">#aa7c7b7b</color> -->
+    <!--<color name="profile_boder">#06BE86</color>-->
+    <!--<color name="btn_focus_color">#32A672</color>-->
+    <!--<color name="btn_pressed_color">#29875d</color>-->
+    <!--<color name="txt_progress_bg">#2A865D</color>-->
+    <!--<color name="clickable_text_green">#38b97f</color>-->
+    <!--<color name="floating_action_button_background_color">#fe5722</color>-->
+    <!-- <color name="color_uploading_tagging">#F5F5F5</color>-->
+    <!--<color name="grey_75">#757575</color>-->
+    <!-- <color name="shadow_green">#5d8f70</color>-->
+    <!--<color name="green_A8">#81C8A8</color>-->
+    <!--<color name="theme_btn_ripple">#2b933a</color>-->
+
+    <!-- ...Theme colors...DO NOT DELETE-->
+
+    <!--<color name="medium_green">@color/theme_blue</color>
+     <color name="pupup_text_color">@color/theme_blue</color>
+     <color name="action_bar_bg">@color/theme_blue</color>
+     <color name="theme_btn_normal">@color/theme_blue</color>
+     <color name="theme_clickable_text_color">@color/theme_blue</color>
+     <color name="btn_bg_normal">@color/dusky_blue_2</color>
+     <color name="center_green">@color/dusky_blue_2</color>
+     <color name="end_green">@color/navigation_drawer_unselected_color</color>
+     <color name="theme_edit_text_hint_color_focused">@color/dusky_blue_2</color>
+     <color name="unselected_tab">@color/navigation_drawer_unselected_color</color>
+     <color name="radio_button_green">@color/navigation_drawer_unselected_color</color>
+     <color name="theme_btn_press">@color/dusky_blue_2</color>
+     <color name="green">@color/dusky_blue_2</color>
+     <color name="theme_green">@color/dusky_blue_2</color>
+     <color name="btn_dialog_color">@color/dusky_blue_2</color>
+     <color name="btn_normal_color">@color/dusky_blue_2</color>
+     <color name="selector">@color/navigation_drawer_unselected_color</color>
+     <color name="start_color">@color/navigation_drawer_unselected_color</color>
+     <color name="end_color">@color/action_bar_bg</color>
+     <color name="number_picker_value">@color/action_bar_bg</color>-->
+
+    <color name="action_bar_bg">@color/app_color</color><!--keep this-->
+    <color name="action_bar_bg_darker">@color/app_color_dark</color>
+    <color name="end_green">@color/app_color_light</color><!--1-->
+
+    <color name="selector">#4053d566</color><!--9, 40 is 25% opaque-->
+
+    <color name="theme_btn_press">@color/action_bar_bg_darker</color><!--4 btn pressed-->
+    <color name="start_color">@color/action_bar_bg</color><!--1 actionbarbg-->
+    <color name="theme_btn_normal">@color/action_bar_bg</color><!--8-->
+    <color name="theme_clickable_text_color">@color/action_bar_bg</color><!--30-->
+    <color name="medium_green">@color/action_bar_bg</color><!--25-->
+    <color name="number_picker_value">@color/action_bar_bg</color><!--8-->
+    <!--1-->
+    <!--1-->
+    <color name="green">@color/action_bar_bg</color><!--5 actionbarbg-->
+    <color name="theme_green">@color/action_bar_bg</color><!--4 actionbarbg-->
+    <!--1 actionbarbg-->
+    <color name="pupup_text_color">@color/action_bar_bg</color><!--2actionbarbg-->
+    <color name="btn_dialog_color">@color/action_bar_bg</color><!--1actionbarbg-->
+    <color name="btn_bg_normal">@color/action_bar_bg</color><!--8actionbarbg-->
+    <color name="theme_edit_text_hint_color_focused">@color/action_bar_bg</color><!--2actionbarbg-->
+    <color name="radio_button_green">@color/action_bar_bg</color><!--2actionbarbg-->
+    <!--4actionbarbg-->
+
+    <color name="red_opacity_50">#80ed4958</color>
+    <color name="red_opacity_86">#23ed4958</color>
+    <color name="fill1">#ff6242</color>
+    <color name="fill2">#4f90ec</color>
+    <color name="fill3">#38c9a3</color>
+    <color name="blue_sky">#00b9e6</color>
+    <color name="blue">#0078bf</color>
+
+    <color name="crop__button_bar">@android:color/transparent</color>
+    <color name="crop__selector_pressed">#1a000000</color>
+    <color name="crop__selector_focused">#77000000</color>
+    <color name="notification_center_end_color">#42ceb9</color>
+
+    <color name="homesample_header_bottom_line">#339aa9b3</color>
+    <color name="navy_blue">#4e6696</color>
+    <color name="navy_blue_opacity_80">#CC4e6696</color>
+    <color name="navy_blue_opacity_50">#804e6696</color>
+    <color name="navy_blue_opacity_69">#B04e6696</color>
+    <color name="navy_blue_opacity_70">#B34e6696</color>
+    <color name="orange_opacity_69">#B0f5a623</color>
+    <color name="overflow_color">#7793a0</color>
+    <color name="overflow_color_opacity_60">#997793a0</color>
+    <color name="overflow_color_opacity_50">#807793a0</color>
+    <color name="overflow_color_opacity_20">#337793a0</color>
+    <color name="light_green">@color/app_patient_name_color</color>
+    <color name="overflow_color_opacity_69">#B07793a0</color>
+    <!--<color name="light_green">#28c398</color>-->
+    <color name="grey_opacity_20">#339aa9b4</color>
+    <color name="grey_opacity_30">#4D9aa9b4</color>
+    <color name="grey_opacity_50">#809aa9b4</color>
+    <color name="sky_blue_color">#2fb0e7</color>
+    <color name="overflow_color_opacity_5">#057793a0</color>
+    <color name="dark_blue_opacity_69">#B0006ab7</color>
+
+
+    <color name="green_lime">@color/action_bar_bg</color>
+    <color name="blue_gray_opacity_20">@color/green1_opacity_20</color>
+    <color name="lime_green">@color/action_bar_bg</color>
+    <color name="gainsboro">#DCDCDC</color>
+
+    <color name="line_seprated">#337793a0</color>
+
+    <color name="greeen">#32b846</color>
+
+    <!--New Colors-->
+    <color name="gray71">#b5b5b5</color>
+    <color name="green1_opacity_6">#1000ff00</color>
+    <color name="green1_opacity_20">#3000ff00</color>
+    <color name="grey_darker">#777777</color>
+    <color name="blue_grey_bali">#8ba4af</color>
+    <color name="dim_grey">#707070</color>
+    <color name="cerulean_opacity_58">#960277bd</color>
+    <color name="cerulean">#0277bd</color>
+    <color name="black_opacity_50">#80000000</color>
+    <color name="black_opacity_5">#05000000</color>
+    <color name="black_opacity_90">#E6000000</color>
+    <color name="black_opacity_80">#CC000000</color>
+    <color name="black_opacity_30">#35000000</color>
+    <color name="grey_e5">#e5e5e5</color>
+    <color name="medicine_name_opacity_55">#88333333</color>
+    <color name="grey_fiord">#804a565c</color>
+    <color name="grey7C">#7C7B7B</color>
+    <color name="grey4C">#4c4c4b</color>
+    <color name="gray80">#808080</color>
+    <color name="white_smoke">#f1f1f1</color>
+    <color name="blue_alice">#f3f6f9</color>
+    <color name="blue_nepal_opacity30">#4d9aa9b3</color>
+    <color name="grey_opacity_69">#B09aa9b4</color>
+    <color name="light_sea_green">#1dafaa</color>
+    <color name="light_sea_green_opacity_50">#1dafaa</color>
+    <color name="green_referred">#05c497</color>
+
+
+
+    <!--colors for medicine background-->
+    <color name="drop">#4FC1E9</color>
+    <color name="tablet">#5D9CEC</color>
+    <color name="spray">#5D9CEC</color>
+    <color name="mixture">#9AA9B4</color>
+    <color name="capsule">#48CFAD</color>
+    <color name="ointment">#48CFAD</color>
+    <color name="toothpaste">#48CFAD</color>
+    <color name="injection">#ED5565</color>
+    <color name="suspension">#ED5565</color>
+    <color name="oil">#F6A623</color>
+    <color name="gum_paint">#F6A623</color>
+    <color name="syrup">#FC6E51</color>
+    <color name="sachet">#FC6E51</color>
+    <color name="powder">#AC92EC</color>
+    <color name="mouth_wash">#AC92EC</color>
+    <color name="creame">#AC92EC</color>
+    <color name="granule">@color/action_bar_bg</color>
+    <color name="toast_rad_flow">#329e42</color>
+    <color name="toast_rad_flow1">#d9911c</color>
+
+    <color name="bg_report">#16325c</color>
+    <color name="orange_sensitivity_highlight">#f1951c</color>
+
+    <color name="died_bg">#ebeff2</color>
+    <color name="result_bg">#0D0078bf</color>
+    <color name="result_bg_boder">#660078bf</color>
+    <!--northwell specific color-->
+    <color name="ui_theme_color">@color/ornge_btn_selection_color</color>
+    <color name="ui_theme_color_30">@color/ornge_btn_disable</color>
+    <color name="ui_theme_color_tint">#90ff671d</color>
+    <color name="drawer_bg">#F2022033</color>
+    <color name="green_btn_bg">#53d566</color>
+    <color name="toolbar_gradient_dark_color">@color/gradient_dark_color</color>
+    <color name="toolbar_gradient_light_color">@color/gradient_light_color</color>
+    <color name="ui_theme_orange_dark">@color/ornge_btn_selection_color_dark</color>
+    <color name="blue_bright_color">#4990e2</color>
+    <color name="blue_filled_color_home">#e1f3ff</color>
+    <color name="blue_signup">#0B86D2</color>
+    <color name="email_status_color">#e31837</color>
+    <color name="blue_manual_card">#0074c8</color>
+    <color name="blue_track_card">#0070d2</color>
+
+    <!-- <color name="gradient_light_color">#009adf</color>
+     <color name="gradient_dark_color">#003ca5</color>-->
+    <color name="homedraw_circle">#96f0dc</color>
+
+    <color name="grey_line">#e3eaef</color>
+    <color name="black_color">#333333</color>
+    <color name="light_blue_color">#b3fcfcfc</color>
+    <color name="light_blue">#199aa9b4</color>
+    <!--<color name="status_bar_light_color">#009adf</color>
+    <color name="status_bar_dark_color">#003ca5</color>-->
+    <color name="blue_picton">#3892f1</color>
+    <color name="blue1">#cc0074c3</color>
+    <color name="sea_green">#1cadb4</color>
+    <color name="sea_green_disabled">#801cadb4</color>
+    <color name="pink">#f65c7c</color>
+
+    <color name="color_scooter">#2eb4ba</color>
+    <color name="color_scooter_90">#E62eb4ba</color>
+    <color name="gray_70">#b3b3b3</color>
+    <color name="whisper">#e6e6e6</color>
+    <color name="navy_blue_approx">#0074c3</color>
+    <color name="navy_blue_approx_70">#B30074c3</color>
+    <color name="dark_dusky_blue">#0762a0</color>
+    <color name="grey_70">#B38a8a8a</color>
+    <color name="cyan_like_blue">#d9f1ff</color>
+    <color name="light_sky_blue">#260092ff</color>
+    <color name="gray_light">#e6e6e6</color>
+    <color name="status_green">#499619</color>
+    <color name="status_yellow">#f6a623</color>
+    <color name="gray_white">#66d8d8d8</color>
+    <color name="dusky_blue_49">#7D4e6696</color>
+    <color name="blue_dark">#16325c</color>
+    <color name="blue_dark_40">#6416325c</color>
+    <color name="cornflower_blue">#6cd64e</color>
+    <color name="row_selection_grey">#dde1e5</color>
+    <color name="grey_80">#cce6e6e6</color>
+    <color name="gray_header">#d5d5d5</color>
+
+    <color name="teal_color_dark">#008188</color>
+    <color name="divider_grey_dark">#d1d1d1</color>
+    <color name="dark_blue_navy">#16325c</color>
+    <color name="green_opacity_10">#1A00a3ab</color>
+    <color name="orange_dark">#ff671d</color>
+
+    <color name="bondi_blue">#00a3ab</color>
+    <color name="dark_cyan">#098d94</color>
+    <color name="white_46_opacity">#75FFFFFF</color>
+
+    <color name="light_blue_date">#b3e6f5ff</color>
+
+    <color name="text_color_blue">#00598c</color>
+    <color name="blood_pressure">#cc6799</color>
+    <color name="pulse_rate">#0d9b8c</color>
+    <color name="grbs">#ff5633</color>
+    <color name="respiration_rate">#6b8a52</color>
+    <color name="spo2">#f5a623</color>
+    <color name="tealish">#1dafaa</color>
+    <color name="off_white">#f7f8fb</color>
+    <color name="background_blue">#e4f9fe</color>
+    <color name="interaction">#66fcf0cd</color>
+    <color name="background_medication_grey">#f5f8fa</color>
+    <color name="yellow_line">#edc200</color>
+
+
+</resources>

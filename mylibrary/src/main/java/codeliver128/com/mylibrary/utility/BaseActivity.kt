@@ -1,28 +1,14 @@
 package kkhura.com.quotes.app.utility
 
-import android.app.Dialog
-import android.content.Context
-import android.content.DialogInterface
-import android.content.pm.PackageManager
-import android.os.Build
 import android.os.Bundle
 import android.util.Log
 import android.view.MenuItem
-import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
-import androidx.core.app.ActivityCompat
-import androidx.core.content.ContextCompat
+import codeliver128.com.mylibrary.R
 import com.google.android.gms.ads.AdListener
 import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.AdView
-import kkhura.com.quotes.app.quotesHome.fragment.QuotesCategoryFragment
-import kkhura.com.quotes.app.R
-import kkhura.com.quotes.app.homescreen.fragment.HomeFragment
-import android.hardware.usb.UsbDevice.getDeviceId
-import android.content.Context.TELEPHONY_SERVICE
-import android.telephony.TelephonyManager
-import androidx.core.content.ContextCompat.getSystemService
 import com.google.android.gms.ads.MobileAds
 
 
@@ -90,7 +76,7 @@ open class BaseActivity : AppCompatActivity() {
         }
     }
 
-    open fun selectItem(position: Int) {
+    /*open fun selectItem(position: Int) {
         when (position) {
             1 -> {
                 val transaction = supportFragmentManager.beginTransaction()
@@ -103,5 +89,5 @@ open class BaseActivity : AppCompatActivity() {
                 transaction.commit()
             }
         }
-    }
+    }*/
 }

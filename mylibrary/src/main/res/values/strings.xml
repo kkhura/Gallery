@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">My Library</string>
+    <string name="ad_unit_id">ca-app-pub-2695810809417290/2188075686</string>
+    <string name="ad_mob_id">ca-app-pub-2695810809417290~9481332686</string>
+    <string name="permission_required">Need permission to store the file</string>
+    <string name="font_bold">bold</string>
+    <string name="font_semibold">semibold</string>
+    <string name="font_light">light</string>
+    <string name="font_regular">regular</string>
+    <string name="font_italic">italic</string>
 </resources>

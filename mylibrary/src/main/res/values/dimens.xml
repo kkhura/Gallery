@@ -1,0 +1,32 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="labels_text_size">14sp</dimen>
+    <dimen name="theme_edittext_text_size">14sp</dimen>
+    <dimen name="btn_text_size">14sp</dimen>
+    <dimen name="text_dimen_top">70dp</dimen>
+    <dimen name="text_dimen_start">20dp</dimen>
+    <dimen name="quote_text">20sp</dimen>
+
+
+    <declare-styleable name="CircularImageView">
+        <attr name="civ_border" format="boolean" />
+        <attr name="civ_border_width" format="dimension" />
+        <attr name="civ_border_color" format="color" />
+        <attr name="civ_background_color" format="color" />
+        <attr name="civ_shadow" format="boolean" />
+        <attr name="civ_shadow_color" format="color" />
+        <attr name="civ_shadow_radius" format="float" />
+        <attr name="civ_shadow_gravity">
+            <flag name="center" value="1" />
+            <flag name="top" value="2" />
+            <flag name="bottom" value="3" />
+            <flag name="start" value="4" />
+            <flag name="end" value="5" />
+        </attr>
+    </declare-styleable>
+
+</resources>
